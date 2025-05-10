@@ -1,13 +1,13 @@
-package com.example.Projetfinal;
+package com.example.projetPfe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProjetfinalApplication {
+public class ProjetPfeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProjetfinalApplication.class, args);
+		SpringApplication.run(ProjetPfeApplication.class, args);
 	}
 
 }
