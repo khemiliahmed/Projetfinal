@@ -36,4 +36,5 @@ public class GrhEmployeService {
     public void deleteEmploye(Long empyUid) {
         employeRepository.deleteById(empyUid);
     }
+    
 }

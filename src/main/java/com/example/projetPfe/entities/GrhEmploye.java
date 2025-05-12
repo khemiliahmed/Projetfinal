@@ -392,20 +392,9 @@ public class GrhEmploye {
     @JoinColumn(name = "rscs_uid")
     private GrhRegimessociaux rscsUid;
 
-    public Object getEmployeCode() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getEmployeCode'");
-    }
+  
 
-    public Object getLastName() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'getLastName'");
-    }
-
-    public void setLastName(Object lastName) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'setLastName'");
-    }
+ 
 
    
 
