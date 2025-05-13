@@ -7,7 +7,12 @@ import lombok.Data;
 import java.time.LocalDate;
 import java.util.Date;
 
+import lombok.Getter;
+import lombok.Setter;
+
 @Data
+@Getter
+@Setter
 public class EmployeFicheDTO {
      private Integer id;
     private String empyCod;
